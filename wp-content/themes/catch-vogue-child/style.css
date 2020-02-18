@@ -11,3 +11,7 @@
  Tags:         one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-logo, custom-menu, editor-style, featured-images, featured-image-header, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, entertainment, photography, portfolio
  Text Domain:  catch-vogue-child
 */
+
+.entry-header-image{
+    display: none
+}
